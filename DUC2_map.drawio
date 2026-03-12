@@ -241,6 +241,9 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-96" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="B4长走廊" vertex="1">
           <mxGeometry height="60" width="220" x="900" y="750" as="geometry" />
         </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-99" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="Bio-3收容间" vertex="1">
+          <mxGeometry height="60" width="120" x="1040" y="830" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
