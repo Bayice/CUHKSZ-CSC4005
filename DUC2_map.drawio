@@ -82,11 +82,10 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="探索第一人称" vertex="1">
           <mxGeometry height="80" width="80" x="290" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-73" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-60" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="电梯间" vertex="1">
-          <mxGeometry height="60" width="120" x="690" y="610" as="geometry" />
+        <mxCell id="zefhTtWOvsTHXSiOdz81-73" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-60" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="670" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="车祸地点" vertex="1">
           <mxGeometry height="60" width="120" x="850" y="290" as="geometry" />
@@ -169,7 +168,7 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="存档点1（黑）&lt;div&gt;B3&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1000" y="610" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-72" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-26" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-110" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-109" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="女主第一人称" vertex="1">
@@ -260,6 +259,9 @@
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-107" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="洗手间" vertex="1">
           <mxGeometry height="80" width="80" x="510" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-109" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="电梯间" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
