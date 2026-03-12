@@ -67,7 +67,7 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="书桌" vertex="1">
           <mxGeometry height="80" width="80" x="1320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-19" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="电脑" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-19" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="小屋电脑" vertex="1">
           <mxGeometry height="80" width="120" x="1450" y="30" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-21" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="视角房间" vertex="1">
