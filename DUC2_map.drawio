@@ -233,13 +233,13 @@
           <mxGeometry height="60" width="120" x="900" y="920" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-95" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="供电房" vertex="1">
-          <mxGeometry height="60" width="120" x="1190" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="1290" y="750" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-98" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-95" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-96" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="B4长走廊" vertex="1">
-          <mxGeometry height="60" width="220" x="900" y="750" as="geometry" />
+          <mxGeometry height="60" width="270" x="900" y="750" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-99" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="Bio-3收容间" vertex="1">
           <mxGeometry height="60" width="120" x="1040" y="830" as="geometry" />
