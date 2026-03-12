@@ -127,8 +127,56 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-44" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="实验室总控室" vertex="1">
           <mxGeometry height="60" width="120" x="1330" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-51" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-48" parent="1" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="实验室电梯间" vertex="1">
           <mxGeometry height="60" width="120" x="1330" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-55" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="B3起始点" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-57" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-54" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="女主第一人称" vertex="1">
+          <mxGeometry height="80" width="80" x="1180" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-61" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-63" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-56" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="存档点1（黑）&lt;div&gt;B3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1000" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-58" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-59" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" value="女主第一人称" vertex="1">
+          <mxGeometry height="80" width="80" x="860" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-65" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-67" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-60" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="存档点2（黑）&lt;div&gt;B4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-62" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="心理咨询室" vertex="1">
+          <mxGeometry height="80" width="80" x="1020" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="实验室" vertex="1">
+          <mxGeometry height="80" width="80" x="700" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="zefhTtWOvsTHXSiOdz81-66" parent="1" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" value="供电房" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
