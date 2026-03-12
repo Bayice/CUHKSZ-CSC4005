@@ -4,18 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zefhTtWOvsTHXSiOdz81-10" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-2" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-10" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="zefhTtWOvsTHXSiOdz81-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="开场树林" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="开场树林" vertex="1">
           <mxGeometry height="60" width="120" x="1120" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-4" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-4" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1320" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-9" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-9" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="200" as="targetPoint" />
           </mxGeometry>
@@ -23,16 +23,16 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-14" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="小屋外围" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="小屋外围" vertex="1">
           <mxGeometry height="60" width="120" x="1120" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-16" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-15" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-16" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="zefhTtWOvsTHXSiOdz81-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="小屋内部" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="小屋内部" vertex="1">
           <mxGeometry height="80" width="80" x="1320" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-11" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="zefhTtWOvsTHXSiOdz81-11" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="170" as="sourcePoint" />
           </mxGeometry>
@@ -52,22 +52,22 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-35" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="总部外围" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="总部外围" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="总部内部" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="总部内部" vertex="1">
           <mxGeometry height="80" width="80" x="940" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="逃生-动态树林" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="逃生-动态树林" vertex="1">
           <mxGeometry height="60" width="120" x="1120" y="290" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-20" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="书桌" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="书桌" vertex="1">
           <mxGeometry height="80" width="80" x="1320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-19" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="电脑" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-19" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="电脑" vertex="1">
           <mxGeometry height="80" width="120" x="1450" y="30" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-21" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="视角房间" vertex="1">
@@ -85,13 +85,13 @@
         <mxCell id="zefhTtWOvsTHXSiOdz81-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="规则房间" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="车祸地点" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="车祸地点" vertex="1">
           <mxGeometry height="60" width="120" x="850" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-39" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zefhTtWOvsTHXSiOdz81-38" value="">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-39" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" target="zefhTtWOvsTHXSiOdz81-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="去实验室的路上" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="去实验室的路上" vertex="1">
           <mxGeometry height="60" width="120" x="990" y="290" as="geometry" />
         </mxCell>
         <mxCell id="zefhTtWOvsTHXSiOdz81-33" edge="1" parent="1" source="zefhTtWOvsTHXSiOdz81-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zefhTtWOvsTHXSiOdz81-32" value="">
@@ -100,10 +100,10 @@
             <mxPoint x="1010" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="总部外围" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="170" as="geometry" />
+        <mxCell id="zefhTtWOvsTHXSiOdz81-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="公园西1出口" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="zefhTtWOvsTHXSiOdz81-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实验室前台" vertex="1">
+        <mxCell id="zefhTtWOvsTHXSiOdz81-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="实验室前台" vertex="1">
           <mxGeometry height="70" width="120" x="990" y="390" as="geometry" />
         </mxCell>
       </root>
